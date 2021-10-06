@@ -10,7 +10,7 @@ class TheJournalApp extends StatelessWidget {
     return MaterialApp(
       title: 'The Journal',
       home: Scaffold(
-        body: Text('Tela incial'),
+        body: Text('Fiz a parte de baixo'),
       ),
     );
   }
